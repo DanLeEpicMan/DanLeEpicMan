@@ -15,4 +15,4 @@ if you wish to contact me, here's some of my contact info:
 **Discord**: Dan Le Man 2#1890
 **Steam**: [Dan Le Man 🐍](https://steamcommunity.com/id/danleepicman/)
 
-i have other accounts but i don't check those ofte; steam and discord are the ones i frequent the most. feel free to add me for whatever reason: i love meeting new people and would love to talk with you!
+i have other accounts but i don't check those often; steam and discord are the ones i frequent the most. feel free to add me for whatever reason: i love meeting new people and would love to talk with you about anything!
