@@ -3,7 +3,7 @@ hey,
 my name is dan, and welcome to my github page. you won't find anything too interesting here, but here's some info about myself:
 
 i'm a college student at UC Santa Barbara, majoring in mathematics. i used to do a lot of programming in Lua on Roblox during middle school and some of high school,
-but i've since then i've moved on and tried to branch out. i haven't really been doing as much programming as i used to these past few years, but it is definitely still a strong passion of mine.
+but i've since moved on and tried to branch out. i haven't really been doing as much programming as i used to these past few years, but it is definitely still a strong passion of mine.
 in the future, i hope to work in a computing related field, such as machine learning or software engineering.
 
 you might be wondering (probably not) why i'm a math major if i have a strong desire to be with computers. well i'm glad you asked: mathematics is my absolute favorite subject.
